@@ -1,0 +1,89 @@
+season,position,points,rider_number,rider_name,time_gap,weather_air_temp,weather_track_cond,weather_humidity
+2024,1,25,93,M. Marquez,41:47.082,25º,Dry,57%
+2024,2,20,89,J. Martin,+4.789,25º,Dry,57%
+2024,3,16,31,P. Acosta,+14.904,25º,Dry,57%
+2024,4,13,33,B. Binder,+16.459,25º,Dry,57%
+2024,5,11,23,E. Bastianini,+18.776,25º,Dry,57%
+2024,6,10,21,F. Morbidelli,+20.549,25º,Dry,57%
+2024,7,9,72,M. Bezzecchi,+24.759,25º,Dry,57%
+2024,8,8,49,F. Di Giannantonio,+37.159,25º,Dry,57%
+2024,9,7,42,A. Rins,+39.420,25º,Dry,57%
+2024,10,6,41,A. Espargaro,+40.602,25º,Dry,57%
+2024,11,5,30,T. Nakagami,+41.782,25º,Dry,57%
+2024,12,4,37,A. Fernandez,+42.083,25º,Dry,57%
+2024,13,3,5,J. Zarco,+43.264,25º,Dry,57%
+2024,14,2,36,J. Mir,+49.735,25º,Dry,57%
+2024,15,1,43,J. Miller,+55.966,25º,Dry,57%
+2024,16,,25,R. Fernandez,+73.322,25º,Dry,57%
+2024,17,,10,L. Marini,+112.386,25º,Dry,57%
+2024,,,1,F. Bagnaia,17 laps,25º,Dry,57%
+2024,,,73,A. Marquez,17 laps,25º,Dry,57%
+2024,,,12,M. Viñales,10 laps,25º,Dry,57%
+2024,,,20,F. Quartararo,5 laps,25º,Dry,57%
+2024,,,88,M. Oliveira,,25º,Dry,57%
+2023,1,25,1,F. Bagnaia,40:58.535,19º,Dry,47%
+2023,2,20,5,J. Zarco,+0.360,19º,Dry,47%
+2023,3,16,33,B. Binder,+2.347,19º,Dry,47%
+2023,4,13,49,F. Di Giannantonio,+3.176,19º,Dry,47%
+2023,5,11,25,R. Fernandez,+4.636,19º,Dry,47%
+2023,6,10,73,A. Marquez,+4.708,19º,Dry,47%
+2023,7,9,21,F. Morbidelli,+4.736,19º,Dry,47%
+2023,8,8,41,A. Espargaro,+8.014,19º,Dry,47%
+2023,9,7,10,L. Marini,+9.486,19º,Dry,47%
+2023,10,6,12,M. Viñales,+10.556,19º,Dry,47%
+2023,11,5,20,F. Quartararo,+12.001,19º,Dry,47%
+2023,12,4,30,T. Nakagami,+21.695,19º,Dry,47%
+2023,13,3,32,L. Savadori,+43.297,19º,Dry,47%
+2023,14,2,44,P. Espargaro,+0.000,19º,Dry,47%
+2023,,,42,A. Rins,19 laps,19º,Dry,47%
+2023,,,43,J. Miller,18 laps,19º,Dry,47%
+2023,,,37,A. Fernandez,9 laps,19º,Dry,47%
+2023,,,23,E. Bastianini,9 laps,19º,Dry,47%
+2023,,,89,J. Martin,5 laps,19º,Dry,47%
+2023,,,93,M. Marquez,5 laps,19º,Dry,47%
+2023,,,72,M. Bezzecchi,,19º,Dry,47%
+2022,1,25,23,E. Bastianini,41:35.462,23º,Dry,45%
+2022,2,20,63,F. Bagnaia,+0.042,23º,Dry,45%
+2022,3,16,41,A. Espargaro,+6.139,23º,Dry,45%
+2022,4,13,33,B. Binder,+6.379,23º,Dry,45%
+2022,5,11,43,J. Miller,+6.964,23º,Dry,45%
+2022,6,10,89,J. Martin,+12.030,23º,Dry,45%
+2022,7,9,10,L. Marini,+12.474,23º,Dry,45%
+2022,8,8,5,J. Zarco,+12.655,23º,Dry,45%
+2022,9,7,42,A. Rins,+12.702,23º,Dry,45%
+2022,10,6,72,M. Bezzecchi,+16.150,23º,Dry,45%
+2022,11,5,88,M. Oliveira,+17.071,23º,Dry,45%
+2022,12,4,73,A. Marquez,+18.463,23º,Dry,45%
+2022,13,3,12,M. Viñales,+18.730,23º,Dry,45%
+2022,14,2,35,C. Crutchlow,+20.090,23º,Dry,45%
+2022,15,1,44,P. Espargaro,+27.588,23º,Dry,45%
+2022,16,,87,R. Gardner,+28.805,23º,Dry,45%
+2022,17,,21,F. Morbidelli,+30.422,23º,Dry,45%
+2022,18,,40,D. Binder,+31.330,23º,Dry,45%
+2022,19,,49,F. Di Giannantonio,+31.595,23º,Dry,45%
+2022,20,,25,R. Fernandez,+36.160,23º,Dry,45%
+2022,,,93,M. Marquez,1 laps,23º,Dry,45%
+2022,,,30,T. Nakagami,,23º,Dry,45%
+2022,,,20,F. Quartararo,,23º,Dry,45%
+2021,1,25,63,F. Bagnaia,41:44.422,30º,Dry,40%
+2021,2,20,93,M. Marquez,+0.673,30º,Dry,40%
+2021,3,16,36,J. Mir,+3.911,30º,Dry,40%
+2021,4,13,41,A. Espargaro,+9.269,30º,Dry,40%
+2021,5,11,43,J. Miller,+11.928,30º,Dry,40%
+2021,6,10,23,E. Bastianini,+13.757,30º,Dry,40%
+2021,7,9,33,B. Binder,+14.064,30º,Dry,40%
+2021,8,8,20,F. Quartararo,+16.575,30º,Dry,40%
+2021,9,7,89,J. Martin,+16.615,30º,Dry,40%
+2021,10,6,30,T. Nakagami,+16.904,30º,Dry,40%
+2021,11,5,27,I. Lecuona,+17.124,30º,Dry,40%
+2021,12,4,42,A. Rins,+17.710,30º,Dry,40%
+2021,13,3,44,P. Espargaro,+19.680,30º,Dry,40%
+2021,14,2,88,M. Oliveira,+22.703,30º,Dry,40%
+2021,15,1,9,D. Petrucci,+25.723,30º,Dry,40%
+2021,16,,35,C. Crutchlow,+26.413,30º,Dry,40%
+2021,17,,5,J. Zarco,+26.620,30º,Dry,40%
+2021,18,,12,M. Viñales,+27.128,30º,Dry,40%
+2021,19,,46,V. Rossi,+32.517,30º,Dry,40%
+2021,20,,10,L. Marini,+39.073,30º,Dry,40%
+2021,,,96,J. Dixon,1 laps,30º,Dry,40%
+2021,,,73,A. Marquez,,30º,Dry,40%
